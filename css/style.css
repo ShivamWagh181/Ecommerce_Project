@@ -212,7 +212,7 @@ section{
 }
 /* Navimg */
 .header .navbar{
-    background: url('../images/nav\ img.jpg');
+    background: url('');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
